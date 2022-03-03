@@ -1,0 +1,50 @@
+{
+    "name": "nf-core/pathogen",
+    "homePage": "https://github.com/nf-core/pathogen",
+    "repos": {
+        "nf-core/modules": {
+            "custom/dumpsoftwareversions": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "fastqc": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "kraken2/kraken2": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "minimap2/align": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "mlst": {
+                "git_sha": "f20c427339936fc95443802d246f3559472ec0c8"
+            },
+            "multiqc": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "nanoplot": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "prokka": {
+                "git_sha": "49da8642876ae4d91128168cd0db4f1c858d7792"
+            },
+            "samtools/faidx": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "samtools/index": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "samtools/sort": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "samtools/view": {
+                "git_sha": "3aacd46da2b221ed47aaa05c413a828538d2c2ae"
+            },
+            "spades": {
+                "git_sha": "49da8642876ae4d91128168cd0db4f1c858d7792"
+            },
+            "unicycler": {
+                "git_sha": "49da8642876ae4d91128168cd0db4f1c858d7792"
+            }
+        }
+    }
+}
